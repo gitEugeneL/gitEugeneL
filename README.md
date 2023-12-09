@@ -21,7 +21,7 @@
   <tr>
     <td align="center" width="96">
       <a>
-        <img src="./img/sharp.svg" width="48" height="48" alt="C#" />
+        <img src="./img/csharp-original.png" width="48" height="48" alt="C#" />
       </a>
       <br>C#
     </td> 
