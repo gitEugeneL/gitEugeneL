@@ -21,38 +21,38 @@
   <tr>
     <td align="center" width="96">
       <a>
-        <img src="./img/csharp-original.png" width="48" height="48" alt="C#" />
+        <img src="./img/csharp-original.png" width="48px" height="48px" alt="C#" />
       </a>
       <br>C#
     </td> 
   <td align="center" width="96">
     <a>
-      <img src="./img/NET-core.svg" width="48" height="48" alt="ASP.NET Core" />
+      <img src="./img/NET-core.svg" width="48px" height="48px" alt="ASP.NET Core" />
     </a>
     <br>.NET Core
   </td>
 
   <td align="center" width="96">
     <a>
-      <img src="./img/symfony-original.svg" width="48" height="48" alt="Symfony" />
+      <img src="./img/symfony-original.svg" width="48px" height="48px" alt="Symfony" />
     </a>
     <br>Symfony
   </td>
   <td align="center" width="96">
     <a>
-      <img src="./img/postgre-original.svg" width="48" height="48" alt="PostgresQL" />
+      <img src="./img/postgre-original.svg" width="48px" height="48px" alt="PostgresQL" />
     </a>
     <br>PostgreSql
   </td>
   <td align="center" width="96"> 
     <a>
-      <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+      <img src="./img/docker-original.svg" width="48px" height="48px" alt="Docker" />
     </a>
     <br>Docker
   </td>
   <td align="center"  width="96">
     <a>
-      <img src="./img/fedora-original.svg" width="48" height="48" alt="Fedora" />
+      <img src="./img/fedora-original.svg" width="48px" height="48px" alt="Fedora" />
     </a>
     <br>Fedora
   </td>
